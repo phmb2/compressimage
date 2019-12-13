@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Compress Image</string>
+
+    <string name="actual_image">Actual Image</string>
+    <string name="compressed_image">Compressed Image</string>
+    <string name="size_image">Size: - </string>
+    <string name="galery_image">Galery Image</string>
+    <string name="camera_image">Camera Image</string>
+    <string name="compress_image">Compress Image</string>
+    <string name="custom_compress">Custom Compress</string>
+    <string name="please_choose_image">Please choose an image!</string>
+
+</resources>
